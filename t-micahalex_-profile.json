@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T23:15:06Z",
+  "IdClaims": [
+    {
+      "Claim": "t:micahalex_"
+    },
+    {
+      "Claim": "gh:micahchoo"
+    },
+    {
+      "Claim": "yt:@andchai"
+    },
+    {
+      "Claim": "mdon:@mixwabitwa@social.coop"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "b52f0cefc685b56f3e725b66",
+    "Timestamp": "2023-04-05T23:30:02Z",
+    "Signature": "85174c24d8db7031593d5a642923a46658a5eb95b7a0481e4b24c7db4e0c9cbbde0b6cd40fb0bf814e48cb3076a47e2c1e510f76d79a6a26385c67415fdd6b8f83bd843d77803aff1ca6f67cf59837b640edc99104b23240e69ed4540e1466b3e8b27e023a407c2749f4b183a28c071f36dc58a45ed3e793210458600000c323d87663175935e7e35a75bd8541fe0ba71be292089760ae25191665ee5531960fbadeeada5586ff9dbe2ca88baeaf76eac3f64c3d2a1fed70ad55f4e339558dc1e31f420dd17a264a17295daed27eb3e8d81bfb21948873e9c6cd7458d1c318dd20e14f9483fa37529b2202f5f7f04ef02e51aab52708c1a45b8e87398455b397"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "c03302bd142d9b3fb8a6d9808da07756847008131a60c5022571cbfcf7124331",
+  "ContentToHash": "v1|gh:micahchoo,mdon:@mixwabitwa@social.coop,t:micahalex_,yt:@andchai|2023-04-05T23:15:06Z"
+}
